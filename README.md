@@ -49,7 +49,7 @@ All files are in `/templates`:
 │  ├─ Harvard resume template.docx
 │  ├─ Modern Resume.docx
 │  └─ Two-Column Resume.docx
-├─ samples/            # (optional) export your filled PDFs here
+|  └─ .gitignore
 └─ .gitignore
 </pre>
 
