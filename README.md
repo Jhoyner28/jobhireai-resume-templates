@@ -1,4 +1,4 @@
-# AI Resume Templates by JobHire.ai
+# AI Resume Templates by JobHire.AI
 
 [JobHire.ai](https://jobhire.ai) is your personal AI career assistant.  
 We help job seekers create tailored resumes and cover letters with AI-powered tools, optimize documents for ATS systems, and streamline the application process.
